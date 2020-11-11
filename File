@@ -1,0 +1,350 @@
+<html dir="ltr" lang="en">
+		<head>
+
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta charset="utf-8">
+			
+			<!-- Favicon -->
+			<link rel="shortcut icon" href="//app.site123.com/manager/site123_website/files/logos/brand_files_2020/Icons/Png/Icon_blue.png?v=20201111081500-5fab9ce634458" type="image/x-icon">
+    		<link rel="icon" href="//app.site123.com/manager/site123_website/files/logos/brand_files_2020/Icons/Png/Icon_blue.png?v=20201111081500-5fab9ce634458" type="image/x-icon">
+
+			<meta name="robots" content="noindex, nofollow">
+
+			<link href='https://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
+
+            <!-- Custom CSS -->
+            <!-- Minimize CSS files --><link rel="stylesheet" href="//app.site123.com/versions/2/css/minimize_main.css?v=20201111081500-5fab9ce634458" type="text/css" crossorigin="anonymous"><style>.s123-module-services.layout-1 {padding:50px 0;}.s123-module-services.layout-1 .features-container {margin-bottom:-30px;}.s123-module-services.layout-1 .service-item p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-1 .service-item {margin-bottom:30px;}.s123-module-services.layout-1 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px;}.s123-page-data-services.layout-1 p {white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-1 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-2 {padding:50px 0;}.s123-module-services.layout-2 .features-container {margin-bottom:-30px;}.s123-module-services.layout-2 .service-item p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-2 .service-item {margin-bottom:30px;}.s123-module-services.layout-2 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px;}.s123-page-data-services.layout-2 p {white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-2 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-3 .service {padding-top:30px;padding-bottom:30px;text-align:center;}.s123-module-services.layout-3 .service > * {clear:both;}.s123-module-services.layout-3 .service > h3 {margin-top:0;}.s123-module-services.layout-3 .service a {opacity:1;}.s123-module-services.layout-3 .service img {max-width:280px;max-height:280px;margin-bottom:15px;}.s123-module-services.layout-3 .service p {min-height:4.5em;}.s123-module-services.layout-3 .service .service-icon {text-align:center;min-width:150px;}.s123-module-services.layout-3 .service .service-icon i {font-size:150px;}@media ( min-width:768px ){.s123-module-services.layout-3 .service {padding:40px 60px;text-align:left;}.s123-module-services.layout-3 .service > * {clear:none;}html[dir=rtl] .s123-module-services.layout-3 .service {text-align:right;}.s123-module-services.layout-3 .service img,.s123-module-services.layout-3 .service .service-icon {max-width:300px;max-height:300px;margin-bottom:0;margin-right:50px;float:left;}.s123-module-services.layout-3 .service:nth-child(even) img,.s123-module-services.layout-3 .service:nth-child(even) .service-icon {margin-right:0;margin-left:50px;float:right;}html[dir=rtl] .s123-module-services.layout-3 .service img,html[dir=rtl] .s123-module-services.layout-3 .service .service-icon {margin-right:0;margin-left:50px;float:right;}html[dir=rtl] .s123-module-services.layout-3 .service:nth-child(even) img,html[dir=rtl] .s123-module-services.layout-3 .service:nth-child(even) .service-icon {margin-left:0;margin-right:50px;float:left;}}.s123-page-data-services.layout-3 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-4 {padding:50px 0;}.s123-module-services.layout-4 .features-container {margin-bottom:-30px;}.s123-module-services.layout-4 .service-item p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-4 .service-link {text-decoration:none;}.s123-module-services.layout-4 .service-item {padding:20px;margin-bottom:30px;}.s123-module-services.layout-4 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px;}.s123-page-data-services.layout-4 p {white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-4 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-6 {padding:50px 0;}.s123-module-services.layout-6 .features-container {margin-bottom:-85px;}.s123-module-services.layout-6 .service-item p {white-space:pre-wrap;word-wrap:break-word;opacity:0.7;width:90%;}.s123-module-services.layout-6 .service-item {display:flex;flex-flow:row;margin-bottom:85px;}.s123-module-services.layout-6 .service-item .service-img-container {width:4.7em; display:flex;justify-content:center;}.s123-module-services.layout-6 .service-item .service-text-container {width:calc( 100% - 4.7em ); text-align:left;}html[dir="rtl"] .s123-module-services.layout-6 .service-item .service-text-container {text-align:right;}.s123-module-services.layout-6 .service-item h4 {margin-top:0;}.s123-module-services.layout-6 .service-item .fa-stack i {line-height:normal;}.s123-module-services.layout-6 .service-item .fa-stack[data-is-image="true"] {width:1.5em;height:1.5em;background-size:cover;background-position:center center;background-repeat:no-repeat;}.s123-page-data-services.layout-6 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-7 {padding:50px 0;}.s123-module-services.layout-7 .features-container {margin-bottom:-30px;}.s123-module-services.layout-7 .service-item p {white-space:pre-wrap;word-wrap:break-word;width:70%;margin:auto;margin-bottom:20px;opacity:0.8;}.s123-module-services.layout-7 .service-item {margin-bottom:30px;}.s123-module-services.layout-7 .service-item .fa-stack {margin:5px;margin-bottom:27px;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-icon="true"] {display:inline-flex;align-items:center;justify-content:center;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-icon="true"] i {font-size:0.6em;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-image="true"] {background-size:cover;background-position:center center;background-repeat:no-repeat;}.s123-page-data-services.layout-7 p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-7.layout-7 h4 {margin-top:0;margin-bottom:0.8em;}.s123-page-data-services.layout-7 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-comments-container .blogCommentsBox {overflow:hidden;height:180px;transition:height 0.5s linear;}.s123-comments-container .blogCommentsBox.active {overflow:hidden;height:350px;}.s123-comments-container .blogCommentsBox .extraDetails {visibility:hidden;opacity:0;}.s123-comments-container .blogCommentsBox.active .extraDetails {visibility:visible;opacity:1;}.s123-comments-container .commentBox {margin-bottom:25px;}.s123-comments-container .commentBox .title {margin:0;font-size:1.2em;font-weight:bold;}.s123-comments-container .commentBox .time {}.s123-comments-container .commentBox p {white-space:pre-wrap;word-wrap:break-word;}.s123-comments-container .commentsForm {margin-top:15px;margin-bottom:15px;}.s123-comments-container .sub-comments-div {margin:10px;}.s123-comments-container .sub-comments-div-box {padding:10px;}.s123-comments-container .commentBox .message,.s123-comments-container .sub-comments-div-box .message {white-space:pre-wrap;}.review-pop-up .blogCommentsBox {padding:0;border:0px solid #e0e0e0;}.s123-comments-container.s123-review-container .commentBox {border:0px solid #e0e0e0;margin-bottom:0px;padding:1em;}.s123-comments-container.s123-review-container .blogCommentsBox {height:230px;}.review-pop-up .rating-area > span {display:block;margin-bottom:5px;}.review-pop-up .rating-area i.star-half-png,.review-pop-up .rating-area i.star-off-png,.review-pop-up .rating-area i.star-on-png {color:#ffbf00;}.review-pop-up .rating-area [data-black-stars="1"] i.star-half-png,.review-pop-up .rating-area [data-black-stars="1"] i.star-off-png,.review-pop-up .rating-area [data-black-stars="1"] i.star-on-png {color:#000;}.s123-comments-container.s123-review-container .blog-reply-to {display:none;}.s123-page-data-eCommerce #productPageReview .commentsForm {display:none;}.review-pop-up #productPageReview .commentsForm {display:block;}#productPageReview .show-more {cursor:pointer;}.review-pop-up .rating-plugin-submit-btn-box {margin-bottom:10px;text-align:center; }.review-pop-up .rating-plugin-submit-btn-box > button {min-width:120px;}.s123-module-blogs .reading-time,.s123-module-blogs .comments-amount {font-size:12px;margin:10px 0;}.s123-module-blogs .blog-item-side-by-side {display:flex;}.s123-module-blogs .blog-item-side-by-side .comments-amount {position:absolute;}html[dir=ltr] .s123-module-blogs .blog-item-side-by-side .comments-amount { right:0;}html[dir=rtl] .s123-module-blogs .blog-item-side-by-side .comments-amount { left:0;}.s123-module-blogs.layout-1 .bottommargin {margin-bottom:20px ;}.s123-module-blogs.layout-1 .blog-image > a {opacity:1;}.s123-module-blogs.layout-1 .blog-image,.s123-module-blogs.layout-1 .blog-image img,.s123-module-blogs.layout-1.blog-image > a {display:block;position:relative;width:auto;height:auto;max-width:100%;max-height:250px;margin:0 auto;}@media (max-width:768px) {.s123-module-blogs.layout-1 .blog-image,.s123-module-blogs.layout-1 .blog-image img,.s123-module-blogs.layout-1.blog-image > a {margin:0 auto;}}.s123-module-blogs.layout-1 .blog-title h3 {margin:0 0 10px 0;font-size:16px;font-weight:600;line-height:1.3;}.s123-module-blogs.layout-1 .blog-content {margin-top:0px;position:relative;}.s123-module-blogs.layout-1 .blog-content p {margin-bottom:0px;}.s123-module-blogs.layout-1 .blog-content .more-link {display:inline-block;padding:0 2px;font-style:italic;margin-top:3px;}.s123-module-blogs.layout-2 .ipost .content {padding:20px 15px 20px 15px;}.s123-page-data-blogs.layout-3 .post-meta {padding:0;margin:20px -10px -15px 0;list-style:none;}.s123-module-blogs.layout-3 .event {padding:20px;margin:0 0 30px;position:relative;}.s123-module-blogs.layout-3 .event-image {width:100%;margin:0 0 15px;position:relative;min-height:100px;}@media (min-width:768px) {.s123-module-blogs.layout-3 .event-image {float:left;width:230px;margin:0 30px 0 0;}html[dir=rtl] .s123-module-blogs.layout-3 .event-image {float:right;margin:0 0 0 30px;}}.s123-module-blogs.layout-3 .event-image img {border-radius:0;}.s123-module-blogs.layout-3 .event-image img, .event-image > a {display:block;position:relative;width:auto;height:auto;max-width:100%;max-height:250px;margin:0 auto;}.s123-module-blogs.layout-3 .event-image .event-date {position:absolute;top:10px;left:10px;background-color:rgba(0, 0, 0, .7);text-shadow:1px 1px 1px rgba(0, 0, 0, .2);color:#FFF;width:60px;height:64px;text-align:center;padding-top:7px;font-size:26px;line-height:1;}html[dir=rtl] .s123-module-blogs.layout-3 .event-image .event-date {left:auto;right:10px;}.s123-module-blogs.layout-3 .event-image .event-date span {display:block;font-size:15px;margin-top:5px;}.s123-module-blogs.layout-3 .event-details {padding:0 0 5px 0;position:relative;overflow:hidden;}.s123-module-blogs.layout-3 .event-title h3 {text-transform:uppercase;letter-spacing:1px;margin:0;font-size:20px;font-weight:600;}.s123-module-blogs.layout-3 .event-title h3 a {}.s123-module-blogs.layout-3 .event-title h3 a:hover {}.s123-module-blogs.layout-3 .event-meta {padding:0;margin:20px -10px -15px 0;list-style:none;}.s123-module-blogs.layout-3 .event-meta li {float:left;font-size:14px;line-height:14px;margin:0 10px 10px 0;font-style:italic;}html[dir=rtl] .s123-module-blogs.layout-3 .event-meta li {float:right;}.s123-module-blogs.layout-3 .event-meta li:before {content:'/';display:inline-block;margin-right:10px;opacity:.5;}html[dir=rtl] .s123-module-blogs.layout-3 .event-meta li:before {margin-right:0;margin-left:10px;}.s123-module-blogs.layout-3 .event-meta li .label {font-size:100%;}.s123-module-blogs.layout-3 .event-meta li i {position:relative;top:1px;margin-right:3px;}html[dir=rtl] .s123-module-blogs.layout-3 .event-meta li i {margin-right:0;margin-left:3px;}.s123-module-blogs.layout-3 .event-meta li a {}.s123-module-blogs.layout-3 .event-meta li a:hover {}.s123-module-blogs.layout-3 .event-meta li:first-child:before {display:none;}.s123-module-blogs.layout-3 .event-content {margin-top:30px;}.s123-page-data-blogs.layout-3 .event-image {position:relative;height:200px;background-position:center center;background-repeat:no-repeat;background-size:cover;margin:0 -15px 0 -15px;}.s123-page-data-blogs.layout-3 .event-image .event-date {position:absolute;top:10px;left:10px;background-color:rgba(0, 0, 0, .7);text-shadow:1px 1px 1px rgba(0, 0, 0, .2);color:#FFF;width:60px;height:64px;text-align:center;padding-top:7px;font-size:26px;line-height:1;}html[dir=rtl] .s123-page-data-blogs.layout-3 .event-image .event-date {left:auto;right:10px;}.s123-page-data-blogs.layout-3 .event-image .event-date span {display:block;font-size:15px;margin-top:5px;}.s123-module-blogs.layout-4 .blog-m {margin:0 0 30px;position:relative;}.s123-module-blogs.layout-4 .blog-m-bg {background-position:center center;background-repeat:no-repeat;background-size:cover;height:350px;position:relative;width:100%;}.s123-module-blogs.layout-4 .blog-m-details {overflow:hidden;padding:20px;position:relative;}.s123-module-blogs.layout-4 .blog-m-title h3 {font-size:20px;font-weight:bold;letter-spacing:1px;margin:0;text-transform:uppercase;}.s123-module-blogs.layout-4 .blog-m-meta {list-style:none;margin:20px -10px -15px 0;padding:0;}.s123-module-blogs.layout-4 .blog-m-meta li {float:left;font-size:14px;font-style:italic;line-height:14px;margin:0 10px 10px 0;}html[dir=rtl] .s123-module-blogs.layout-4 .blog-m-meta li {float:right;}html[dir=rtl] .s123-module-blogs.layout-4 .blog-m-meta li:before {margin-left:10px;margin-right:0;}.s123-module-blogs.layout-4 .blog-m-meta li i {margin-right:3px;position:relative;top:1px;}html[dir=rtl] .s123-module-blogs.layout-4 .blog-m-meta li i {margin-left:3px;margin-right:0;}.s123-module-blogs.layout-4 .blog-m-content {margin-top:30px;}.s123-module-blogs.layout-4 .blog-m-bt {float:none;text-align:center;}@media ( min-width:768px ) {.s123-module-blogs.layout-4 .blog-m-bt {float:right;}html[dir=rtl] .s123-module-blogs.layout-4 .blog-m-bt {float:left;}}.s123-module-blogs.layout-5 .blog-container {clear:both;}@media ( min-width:768px ) {.s123-module-blogs.layout-5 .blog-container {clear:none;}.s123-module-blogs.layout-5 .blog-container:nth-child(odd) { clear:both;}}@media ( min-width:970px ) {.s123-module-blogs.layout-5 .blog-container:nth-child(odd) { clear:none;}.s123-module-blogs.layout-5 .blog-container:nth-child(4n+1) { clear:both;}}.s123-module-blogs.layout-5 .blog-image {margin-bottom:15px;width:100%;height:250px;background-position:center center;background-repeat:no-repeat;background-size:cover;position:relative;}.s123-module-blogs.layout-5 .blog-image > div {margin-bottom:15px;width:100%;height:250px;background-position:center center;background-repeat:no-repeat;background-size:cover;position:relative;}.s123-module-blogs.layout-5 .blog-title h3 {margin:0;margin-bottom:15px;font-size:19px;}.s123-module-blogs.layout-5 .blog-text-content {margin-top:0px;margin-bottom:30px;position:relative;text-align:justify;}html[dir=rtl] .s123-module-blogs.layout-5 .fa-angle-right:before {content:"\f104";}.s123-module-blogs.layout-6 .all-items .blog-m-container:nth-child(2n+1) {clear:both;}.s123-module-blogs.layout-6 .limit-items .blog-m-container:not(.leading-blog) {float:right;clear:right;}html[dir=rtl] .s123-module-blogs.layout-6 .limit-items .blog-m-container:not(.leading-blog) {float:left;clear:left;}.s123-module-blogs.layout-6 .leading-blog .blog-m-image,.s123-module-blogs.layout-6 .leading-blog .blog-m-image img,.s123-module-blogs.layout-6 .leading-blog .blog-m-image > a{width:100%;height:auto;margin:0 auto;margin-bottom:15px;display:block;position:relative;}.s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image,.s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image img,.s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image > a{width:110px;height:auto;margin-right:20px;display:block;position:relative;float:left;}html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image,html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image img,html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-container:not(.leading-blog) .blog-m-image > a{float:right;margin-right:0;margin-left:20px;}.s123-module-blogs.layout-6 .blog-m-details {position:relative;overflow:hidden;margin-bottom:40px;}.s123-module-blogs.layout-6 .blog-m-details p {margin-bottom:15px;}.s123-module-blogs.layout-6 .blog-m-title h3 {text-transform:uppercase;letter-spacing:1px;margin:0;font-size:20px;font-weight:bold;}.s123-module-blogs.layout-6 .blog-m-meta {padding:0;margin:15px -10px -15px 0;list-style:none;margin-bottom:15px;}.s123-module-blogs.layout-6 .blog-m-meta li {float:left;font-size:14px;line-height:14px;margin:0 10px 10px 0;font-style:italic;}html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-meta li {float:right;}.s123-module-blogs.layout-6 .blog-m-meta li:before {content:'/';display:inline-block;margin-right:10px;opacity:.5;}html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-meta li:before {margin-right:0;margin-left:10px;}.s123-module-blogs.layout-6 .blog-m-meta li i {position:relative;top:1px;margin-right:3px;}html[dir=rtl] .s123-module-blogs.layout-6 .blog-m-meta li i {margin-right:0;margin-left:3px;}.s123-module-blogs.layout-6 .blog-m-meta li:first-child:before {display:none;}.s123-module-blogs.layout-6 .more-link {display:inline-block;padding:0 2px;font-style:italic;}html[dir=rtl] .s123-module-blogs.layout-6 .fa-angle-right:before { content:"\f104";}.s123-module-blogs.layout-7 .blog-module {margin:0 0 30px;position:relative;border:1px solid #ddd;border-radius:3px;}.s123-module-blogs.layout-7 .blog-m-container {clear:both;}@media ( min-width:768px ) {.s123-module-blogs.layout-7 .blog-m-container {clear:none;}.s123-module-blogs.layout-7 .blog-m-container:nth-child(odd) { clear:both;}}@media ( min-width:970px ) {.s123-module-blogs.layout-7 .blog-m-container:nth-child(odd) { clear:none;}.s123-module-blogs.layout-7 .blog-m-container:nth-child(3n+1) { clear:both;}}.s123-module-blogs.layout-7 .blog-module-bg {background-position:center center;background-repeat:no-repeat;background-size:cover;height:250px;position:relative;width:100%;}.s123-module-blogs.layout-7 .blog-module-details {overflow:hidden;padding:20px;position:relative;}.s123-module-blogs.layout-7 .blog-module-title h3 {padding-bottom:20px;font-size:20px;font-weight:bold;letter-spacing:1px;margin:0;text-transform:uppercase;}.s123-module-blogs.layout-7 .blog-module-meta {list-style:none;padding:0;margin-bottom:-5px;}.s123-module-blogs.layout-7 .blog-module-meta li {float:left;font-size:14px;font-style:italic;line-height:14px;margin:0 10px 10px 0;}html[dir=rtl] .s123-module-blogs.layout-7 .blog-module-meta li {float:right;}html[dir=rtl] .s123-module-blogs.layout-7 .blog-module-meta li:before {margin-left:10px;margin-right:0;}.s123-module-blogs.layout-7 .blog-module-meta li i {margin-right:3px;position:relative;top:1px;}html[dir=rtl] .s123-module-blogs.layout-7 .blog-module-meta li i {margin-left:3px;margin-right:0;}.s123-module-blogs.layout-7 .blog-module-content {padding-bottom:20px;}.s123-module-blogs.layout-7 .blog-module-bt {float:right;text-align:center;}html[dir=rtl] .s123-module-blogs.layout-7 .blog-module-bt {float:left;}html[dir=rtl] .s123-module-blogs.layout-7 .fa-angle-right:before { content:"\f104";}.s123-module-blogs.layout-8 .blog-m-lead-container {margin-bottom:30px;}.s123-module-blogs.layout-8 .blog-m-lead-image {background-position:center center;background-repeat:no-repeat;background-size:cover;height:250px;position:relative;width:100%;}@media ( min-width:768px ) {.s123-module-blogs.layout-8 .blog-m-lead-image {height:400px;}}.s123-module-blogs.layout-8 .blog-m-lead-title h3 {font-size:19px;font-weight:bold;max-height:3em;overflow:hidden;}.s123-module-blogs.layout-8 .blog-m-lead-box {width:100%;padding:1px 20px 10px;border-bottom:4px solid #e2e2e2;}.s123-module-blogs.layout-8 .blog-m-container {clear:both;}.s123-module-blogs.layout-8 .blog-m-text {height:550px;margin-bottom:30px;}@media ( min-width:768px ) {.s123-module-blogs.layout-8 .blog-m-container {clear:none;}.s123-module-blogs.layout-8 .blog-m-container:nth-child(odd) { clear:both;}}@media ( min-width:970px ) {.s123-module-blogs.layout-8 .blog-m-container:nth-child(odd) { clear:none;}.s123-module-blogs.layout-8 .blog-m-container:nth-child(3n+1) { clear:both;}}.s123-module-blogs.layout-8 .blog-m-text {border-bottom:4px solid #e2e2e2;}.s123-module-blogs.layout-8 .blog-m-image {margin-bottom:15px;width:100%;height:250px;background-position:center center;background-repeat:no-repeat;background-size:cover;position:relative;}.s123-module-blogs.layout-8 .blog-m-image > div {margin-bottom:15px;width:100%;height:250px;background-position:center center;background-repeat:no-repeat;background-size:cover;position:relative;}.s123-module-blogs.layout-8 .blog-m-title h3 {margin:0;margin-bottom:15px;padding:0 10px;font-size:19px;font-weight:bold;max-height:20px;overflow:hidden;}.s123-module-blogs.layout-8 .blog-m-p {margin-top:0px;margin-bottom:30px;padding:0 10px;position:relative;text-align:justify;}.s123-module-blogs.layout-8 .blog-m-p p {max-height:300px;overflow:hidden;}html[dir=rtl] .s123-module-blogs.layout-8 .fa-angle-right:before {content:"\f104";}.s123-module-blogs.layout-9 .news-blog {margin-bottom:1.2em;text-align:center;}.s123-module-blogs.layout-10 .blog-post-first .first-img-link {width:50%}.s123-module-blogs.layout-10 .blog-post-first .first-img-link .blog-module-bg {width:100%;}.s123-module-blogs.layout-10 .blog-module .blog-module-bg,.s123-module-blogs.layout-10 .blog-post-first .blog-module-bg {position:relative;height:250px;width:100%;background-position:center center;background-repeat:no-repeat;background-size:cover;}.s123-module-blogs.layout-10 .blog-module,.s123-module-blogs.layout-10 .blog-post-first {padding-bottom:10px;}@media(min-width:1024px) {.s123-module-blogs.layout-10 .blog-post-first {padding:0 0 50px 0;display:flex;}.s123-module-blogs.layout-10 .blog-post-first .blog-module-bg {width:50%;height:auto;min-height:300px;flex-shrink:0;}.s123-module-blogs.layout-10 .blog-post-first .blog-module-details {width:50%;text-align:left;padding:20px 0 20px 100px;display:flex;flex-direction:column;justify-content:center;}html[dir=rtl] .s123-module-blogs.layout-10 .blog-post-first .blog-module-details {text-align:right;padding:20px 100px 20px 0;}}.s123-module-blogs.layout-10 .blog-module-details {padding:10px;}.s123-module-blogs.layout-10 .blog-module .reading-time,.s123-module-blogs.layout-10 .blog-module .comments-amount {margin:0 0 10px 0;}.s123-module-blogs.layout-10 .blog-module .blog-module-details .blog-time,.s123-module-blogs.layout-10 .blog-post-first .blog-module-details .blog-time {margin-bottom:10px;}.s123-module-blogs.layout-10 .blog-module-details .blog-time i {margin-right:3px;position:relative;top:1px;}html[dir=rtl] .s123-module-blogs.layout-10 .blog-module-details .blog-time i {margin-left:3px;margin-right:0;}html[dir=rtl] .s123-module-blogs.layout-10 .fa-angle-right:before { content:"\f104";}</style><link rel="stylesheet" href="//app.site123.com/versions/2/css/websiteCSS.css?w=&orderScreen=&websiteID=1303799&onlyContent=&tranW=&v=20201111081500-5fab9ce634458_22305224" class="reloadable-css" type="text/css">
+			<style>
+				body {
+					width: 100%;
+					background-image: url(//app.site123.com/files/images/system-messages.jpg?v=1);
+					background-repeat: no-repeat;
+					background-size: cover;
+					background-position: center center;
+    			}
+                #loginFormsContainer {
+                    width: 100%;
+                }
+                .mainBox {
+                    display: flex;
+                    align-items: center;
+                    align-content: center;
+                    justify-content: center;
+                    height: 100vh;
+                }
+			</style>
+
+			<title>Private Website</title>
+		</head>
+		<body>
+            <div class="mainBox col-md-offset-4 col-md-4">
+                <div id="loginFormsContainer" class="row login-forms box box-primary s123-box-top-primary-border s123-box-padding text-center">
+                    <h1>Private Website</h1>
+                    <h4>Please enter the website password:</h4>
+                    <form id="websitePasswordForm">
+                        <div class="form-group">
+                            <input type="password" id="websitePassword" name="websitePassword" class="form-control" placeholder="Password" style="max-width:280px;margin: 0 auto;"/>
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="confirm-send-pass btn btn-success btn-lg">Send</button>
+                            <input type="hidden" name="websiteID" value="1303799">
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+			<!-- JavaScript Translations Object -->
+<script>
+	
+	var translations = {
+		"sent"	  		   : "Sent!",
+		"enterYourQuery" 	   : "Enter your query",
+		"loading"		   : "Loading...",
+		"closeEsc"		   : "Close (Esc)",
+		"previousLeftArrowKey"	   : "Previous (Left arrow key)",
+		"NextRightArrowKey"	   : "Next (Right arrow key)",
+		"of"		   	   : "of",
+		"more"		   	   : "MORE",
+		"cart"		   	   :"Cart",
+		"SearchResult"		   : "Search Result",
+		"ChooseTheAmountDonate"    : "Choose the amount you want to donate",
+		"blogReviewMessage"	   : "Thank you! Your comment will be published after being approved by the admin.",
+		"productReviewMessage"	   : "Thank you! Your review will be published after being approved by the administrator.",
+		"ConfirmMailingSubscrive"  : "Please Confirm Your Email Address to Complete Your Subscription",
+		"subscribeTellAboutYou"  : "Please tell us about yourself",
+		"imageCouldNotLoaded"      : "<a href=\"%url%\">The image<\/a> could not be loaded.",
+		"searchInputValidation"    : "Please enter a valid search query.",
+		"jqueryValidMsgRequire"    : "This field is required.",
+		"jqueryValidMsgRemote"     : "Please fix this field.",
+		"jqueryValidMsgEmail"      : "Please enter a valid email address.",
+		"jqueryValidMsgUrl"        : "Please enter a valid URL.",
+		"jqueryValidMsgDate"       : "Please enter a valid date.",
+		"jqueryValidMsgDateISO"    : "Please enter a valid date (ISO).",
+		"jqueryValidMsgNumber"     : "Please enter a valid number.",
+		"jqueryValidMsgDigits"     : "Please enter only digits.",
+		"jqueryValidMsgCreditcard" : "Please enter a valid credit card number.",
+		"jqueryValidMsgEqualTo"    : "Please enter the same value again.",
+		"jqueryValidMsgAccept"     : "Please enter a value with a valid extension.",
+		"jqueryValidMsgMaxlength"  : "Please enter no more than {0} characters.",
+		"jqueryValidMsgMinlength"  : "Please enter at least {0} characters.",
+		"jqueryValidMsgRangelength":"Please enter a value between {0} and {1} characters long.",
+		"jqueryValidMsgRange"	   : "Please enter a value between {0} and {1}.",
+		"jqueryValidMsgMax"	   : "Please enter a value less than or equal to {0}.",
+		"jqueryValidMsgMin"	   : "Please enter a value greater than or equal to {0}.",
+		"sending"		   : "Sending",
+		"firstName"		   : "First Name",
+		"lastName"		   : "Last Name",
+		"phone"			   : "Phone",
+		"emailAddress"		   : "Email address",
+		"fileUpload"		   : "File Upload",
+		"send"			   : "Send",
+		"search"		   : "Search",
+		"productvalidatorPopover"  : "Required field",
+		"SpecialRequest" 	   : "Special Request",
+		"restaurantReservation"    : "Restaurant Reservation",
+		"ThankYouAuto"		   : "Order completed, thank you for your order!",
+		"ThankYouManual"	   : "Order is not completed yet, we will contact you soon",
+		"Ok"			   : "OK",
+		"OrderNumber"		   : "Order Number",
+		"Date"			   : "Date",
+		"Hour"			   : "Hour",
+		"TableSize"		   : "Table Size",
+		"NoAvailableTime"	   : "Sorry, there is no available time for this date, please try another date.",
+		"message"	           : "Message",
+		"ThankYou"	           : "Thank you",
+		"error_title"	   	   : "Error",
+		"error_body"	   	   : "Oops something went wrong",
+		"limitTickets"	   : "Limit of:",
+		"tickets"	   : "Tickets",
+		"registrationClosed"       : "Registration is closed. Please contact us for more information.",
+		"Sunday"		   : "Sunday",
+		"Monday"		   : "Monday",
+		"Tuesday"		   : "Tuesday",
+		"Wednesday"		   : "Wednesday",
+		"Thursday"		   : "Thursday",
+		"Friday"		   : "Friday",
+		"Saturday"		   : "Saturday",
+		"foodDeliverybootBoxTitle" : "Order Window",
+		"addToCart"                : "Add To Cart",
+		"save"                	   : "Save",       
+		"ThankYouAfterSubmmit" 	   : "Thank you for contacting us. We have received your message and will respond to you soon.",    
+		"country" 					: "Country",
+		"productQuntityLimit" 		: "The product is limited to a maximum of {{units_limitation}} units.",
+		"productQuntityLimitMin" 		: "The product is limited to a minimum of {{units_limitation}} units.",
+		"forumDeleteTopic" 		: "Deleting a topic will also permanently remove all related replies. Are you sure you want to delete it?",
+		"forumDeleteTopicTitle" 	: "Delete Topic",
+		"forumDeleteReply" 		: "Are you sure you want to delete this reply?",
+		"forumDeleteReplyTitle" 	: "Delete Reply",
+		"forumNewTopic" 	: "New Topic",
+		"forumCreateNewTopic" 	: "Create a new topic",
+		"forumCountOfTotalPosts" 	: "Post a total of {{numbers_of_posts}} posts",
+		"forumSearchPlaceholder" 	: "search topics, posts, or categories",
+		"forumLastReply" 	: "Last Reply",
+		"follow" 	: "Follow",
+		"following" 	: "Following",
+		"forumReplies" 	: "Replies",
+		"forumFrequentPosters" 	: "Frequent Posters",
+		"chooseCategory" 	: "Choose Category",
+		"linkCopiedToClipboard" 	: "Link copied to clipboard",
+		"edit" 	: "Edit",
+		"created" 	: "Created",
+		"seeMore" 	: "See More",
+		"options" 	: "Options",
+		"joined" 	: "Joined",
+		"posted" 	: "Posted",
+		"category" 	: "Category",
+		"yes" 	: "Yes",
+		"no" 	: "No",
+		"insertTopicTitle" 	: "Insert Topic Title",
+		"insertTopicMessage" 	: "Insert Message Topic",
+		"reply" 	: "Reply",
+		"addReply" 	: "Add reply",
+		"address" 	: "Address:",
+		"city" 	: "City:",
+		"state" 	: "State:",
+		"zipCode" 	: "Zip\/Postal Code:",
+		"instructions" 	: "Instructions:",
+		"country_v2" : "Country:",
+		"chooseDate": "Choose Date",
+		"chooseDateAndTime": "Choose Date & Time",
+		"chooseTime": "Choose Time",
+		"total" : "Total:",
+		"reviewBad": "bad",
+		"reviewPoor": "poor",
+		"reviewRegular": "regular",
+		"reviewGood": "good",
+		"reviewGorgeous": "gorgeous",
+		"popupButtonSelected": "Select",
+		"editHeader": "Edit Header",
+		"editFooter": "Edit Footer",
+		"eCommerceSort": {
+			"sortBy": "Sort By",
+			"recommended": "Recommended",
+			"byHighPrice": "Price, high to low",
+			"byLowerPriceBy": "Price, low to high",
+		},
+		"globalContactEmail": {
+			"fullName": "Full Name",
+			"description": "Description",
+			"subject": "Subject",
+			"contactUs": "Contact Us",
+			"infoBox": "Fill out the form or send a direct email to: {{email_address}}",
+			"thankYouMessage": "Thank you for contacting us.",
+			"thankYouCloseBtn": "Close"		},
+		"editStructure": "Edit Structure",
+		"editLogo": "Edit Logo",
+		"eventNumberOfTickets": "Choose how many tickets you would like to purchase.",
+		"magicBtn": {
+			"editMagicContactButton": "Edit Contact", 
+			"editMagicShareButton": "Edit Share", 
+			"contactUs": {
+				"title": "Contact",
+				"submitBtn": "Contact Us",
+				"ThankYouAfterSubmmit": "Thank you for contacting us. We have received your message and will respond to you soon.",
+				"fields": {
+					"name": "Name",
+					"phone": "Phone",
+					"emailAddress": "Email address",
+					"emailAddressValidationdMsg": "Please enter a valid email.",
+					"message": "Message",
+					"requiredMsg": "This field is required.",
+				}
+			},
+			"copyLink": {
+				"success": "The link has been copied to the clipboard.",
+			},
+			"ExternalLinksPreventor": {
+				"title": "Published Version Only",
+				"previewExternalLinkMsg": "You are trying to exit to an external link from your website's preview mode. Please publish your website and try again from the URL of your website.",
+			},
+			"facebookMessenger": {
+				"title": "Facebook",
+			},
+			"whatsApp": {
+				"title": "WhatsApp",
+			},
+			"phone": {
+				"title": "Phone",
+			},
+			"skype": {
+				"title": "Skype",
+			},
+			"telegram": {
+				"title": "Telegram",
+			},
+			"facebook": {
+				"title": "Facebook",
+			},
+			"twitter": {
+				"title": "Twitter",
+			},
+			"pinterest": {
+				"title": "Pinterest",
+			},
+			"gmail": {
+				"title": "Gmail",
+			},
+			"linkedIn": {
+				"title": "LinkedIn",
+			},
+			"tumblr": {
+				"title": "Tumblr",
+			},
+			"emailApp": {
+				"title": "Email App",
+			},
+			"copyLink": {
+				"title": "Copy Link",
+			}
+		},
+		"fillOutAtLeastOneField": "You need to fill out at least one field before you submit this form.",
+		"productCallToAction": {
+			"fullName": "Full Name",
+			"description": "Description",
+			"subject": "Subject",
+			"title": "Contact Us",
+			"infoBox": "Please fill out the following form if you are interested in this product:",
+			"thankYouMessage": "Thank you for contacting us.",
+			"thankYouCloseBtn": "Close",
+			"phone": "Phone",
+			"productName": "Product Name:"		},
+		"flipClock": {
+			"years"   : "Years",
+			"months"  : "Months",
+			"days"    : "Days",
+			"hours"   : "Hours",
+			"minutes" : "Minutes",
+			"seconds" : "Seconds"		},
+		"previewExternalLinkTitle": "External link",
+		"previewExternalLinkMsg": "You are trying to exit to an external link {{externalLink}} from the control panel, which is disabled here. Please go to full screen preview to get it working.",
+		"returnPolicy": "Return Policy"	};
+
+</script>
+<!-- JavaScript Translations Object -->
+
+			<script type="text/javascript">
+				// some tools in scripts.js need the globals so we add them here
+				var $GLOBALS =  {
+					'cdn-user-files' : 'https://cdn-cms.f-static.net',
+					'maps-display-domain' : 'https://maps.site123.com',
+					'cdn-system-files' : '//app.site123.com',
+					'v-cache' : '20201111081500-5fab9ce634458',
+				};
+			</script>
+
+			<!-- Minimize JS files -->
+			<script src="//app.site123.com/versions/2/js/minimize_p1.js?v=20201111081500-5fab9ce634458" crossorigin="anonymous"></script><script src="//app.site123.com/versions/2/js/minimize_p2.js?v=20201111081500-5fab9ce634458" crossorigin="anonymous"></script><script src="//app.site123.com/versions/2/js/minimize_p3.js?v=20201111081500-5fab9ce634458" crossorigin="anonymous"></script><script src="//app.site123.com/versions/2/js/minimize_p4.js?v=20201111081500-5fab9ce634458" crossorigin="anonymous"></script><script src="//app.site123.com/versions/2/js/js.php?v=20201111081500-5fab9ce634458&umk=3-52" crossorigin="anonymous"></script><script src="//app.site123.com/versions/2/js/minimize_scripts.js?v=20201111081500-5fab9ce634458" crossorigin="anonymous"></script>
+		</body>
+		<script>
+
+			//Run when the page load (before images and other resource)
+			jQuery(function($) {
+
+				//Get the form
+				var $form = $('#websitePasswordForm');
+
+				//Handle the form submit
+				$form.submit(function( event ) {
+					
+					//Prevent the form submit action
+					event.preventDefault();
+					
+					//Exit if the user did not enter any password
+					if ( $('#websitePassword').val().length === 0 ) return;
+
+					//Disable the submit button to prevent multiple submit
+					$form.find('button:submit').prop('disabled', true);
+
+					//Create an Ajax request for password validation
+					var request = $.post(
+						'/versions/2/include/websitePassMessageO.php',
+						$(this).serialize()
+					).done(function( response ) {
+						//Check if the user enter the correct password
+						if ( response === 'Success') {
+
+							//Reload the page (we already set the cookie to the use)
+                            //We don't user RELOAD function because it's make problems with MOBILE device
+                            //We just redirect the user to the same page he locate
+                            //window.location.reload();
+                           location.href = '/';
+
+						} else {
+
+							//Show alert to the user that incorrect password entered
+							bootbox.alert({
+								message: "Incorrect password. Please try again.",
+								backdrop: true
+							});
+
+						}
+						//Disable the submit button to prevent multiple submit
+						$form.find('button:submit').prop('disabled', false);
+					});
+				});
+			});
+
+		</script>
+	</html>
+	
